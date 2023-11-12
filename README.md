@@ -1,6 +1,6 @@
 # Telegram Music Bot 
 
-This bot will play music in your telegram groups and channels. \
+This bot will play music in your telegram groups and channels. 
 
 ## How to use. 
 First install docker on your system and then clone this repo as
