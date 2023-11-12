@@ -1,0 +1,8 @@
+{
+  "name": "Telegram Music Bot",
+  "description": "Telegram Music Bot by AMI to play songs and videos in your telegram groups, channels.",
+  "repository": "https://github.com/amjiddader",
+  "logo": "https://yt3.googleusercontent.com/ytc/APkrFKYrGn9i8IhOx7aPIOOw1eXfjU6fFRKcNh2ljqSUqQ=s900-c-k-c0x00ffffff-no-rj",
+  "keywords": [ "telegram", "heroku", "container", "supervisor", "music", "yt", "template" ],
+  "stack": "container"
+}
