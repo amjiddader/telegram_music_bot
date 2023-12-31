@@ -15,7 +15,9 @@ Now edit docker file vim Dockerfile
 1. Create a gist at: https://gist.github.com/
 2. Put all required .env values as show in example.env
 3. Put this link in Dockerfile
-4. Then build your docker image ( music is name , you can change it to whatever you want)
+4. Then build your docker image
+5. Docker has 3 images. ( latest, beta. sexy) you can use whichever u want)
+You have to edit the tags in Docker file i.e: amjiddader/tg_music:beta
 ```
  docker build -t music . 
 ```
