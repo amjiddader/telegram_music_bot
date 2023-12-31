@@ -1,5 +1,5 @@
 FROM amjiddader/telegram_music:latest
-# Use beta image for more beautiful UI but beta may show my bot username as play.py does not read bot.username from .env
+# Other tags : sexy , beta
 # Set non-interactive mode for apt
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt install git zip unzip vim ffmpeg python3 python3-pip -y
