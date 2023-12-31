@@ -16,8 +16,8 @@ Now edit docker file vim Dockerfile
 2. Put all required .env values as show in example.env
 3. Put this link in Dockerfile
 4. Then build your docker image
-5. Docker has 3 images. ( latest, beta. sexy) you can use whichever u want)
-You have to edit the tags in Docker file i.e: amjiddader/tg_music:beta
+5. Docker has 3 images. ( latest, beta. sexy) you can use whichever u want) 
+You have to edit the tags in Docker file i.e: amjiddader/telegram_music:latest
 ```
  docker build -t music . 
 ```
