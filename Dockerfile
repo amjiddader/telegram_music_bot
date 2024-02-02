@@ -7,5 +7,5 @@ ENV DEBIAN_FRONTEND=noninteractive
 WORKDIR /app
 #RUN chmod 777 -R /app
 ## paste your gist link below...
-RUN wget -O /app/.env https://gist.githubusercontent.com/amjiddader/xxxxxxxxxxxxxxxx/file.env
+RUN wget -O /app/.env https://gist.githubusercontent.com/amjiddader/7bdcd5c975940ae242bda8cf571f4d05/raw/0b804bb26f2dedbfd448e250f810c57f5b21ee46/test.env
 CMD ["python3", "-m", "YukkiMusic"]
