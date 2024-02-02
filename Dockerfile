@@ -1,4 +1,4 @@
-FROM amjiddader/telegram_music:beta
+FROM amjiddader/telegram_music:latest
 # Other tags : sexy , beta
 # Set non-interactive mode for apt
 USER 10014
